@@ -1,1 +1,1 @@
-document.getElementById("test").innerHTML = Decimal.add([3,0],[5,0])
+document.getElementById("test").innerHTML = Decimal.mul("1e32512","3e3253253")
