@@ -1,1 +1,1 @@
-console.log(Decimal.add([5,0],[3,0]))
+document.getElementById("test").innerHTML = Decimal.add([3,0],[5,0])
