@@ -1,0 +1,1 @@
+console.log(Decimal.add([5,0],[3,0]))
